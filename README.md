@@ -5,6 +5,7 @@ I'm a Full-Stack Software Engineer with 4+ years of experience designing, buildi
 I enjoy working across the full software development lifecycle — from requirements and system design to database architecture, API development, frontend implementation, deployment, and iteration.
 
 🚀 About Me
+
 💻 Full-Stack Software Engineer 
 🏗️ Building scalable SaaS and business applications
 ⚛️ Strong experience with React, Next.js & TypeScript
