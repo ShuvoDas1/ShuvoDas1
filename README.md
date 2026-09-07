@@ -20,3 +20,7 @@ I enjoy working across the full software development lifecycle — from requirem
 👨‍💻 Code review, mentoring & technical leadership
 
 
+🤝 Let's Connect
+
+<p> <a href="https://www.linkedin.com/in/shuvodas01"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:shuvo0381@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://github.com/ShuvoDas1"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /> </a> </p>
+
