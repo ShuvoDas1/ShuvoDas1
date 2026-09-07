@@ -19,6 +19,37 @@ I enjoy working across the full software development lifecycle — from requirem
 📊 Reporting, analytics & data-heavy applications
 👨‍💻 Code review, mentoring & technical leadership
 
+🛠️ Tech Stack
+Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind" /> </p>
+
+React.js • Next.js • TypeScript • JavaScript • Redux • RTK Query • Tailwind CSS
+
+Backend
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" /> </p>
+
+Node.js • Express.js • PHP • Laravel • REST APIs
+
+Databases & Storage
+
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /> </p>
+
+MySQL • PostgreSQL • MongoDB • Redis
+
+DevOps & Cloud
+
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions" /> </p>
+
+AWS EC2 • Docker • Nginx • Linux • GitHub Actions • CI/CD • SSL • Server Monitoring
+
+Tools & Practices
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,jira" /> </p>
+
+Git • GitHub • Postman • Jira • Sentry • System Design • WebSockets • Multi-Tenant Architecture
+
 
 🤝 Let's Connect
 
