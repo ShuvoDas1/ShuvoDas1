@@ -48,7 +48,7 @@ Tools & Practices
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,postman,jira" /> </p>
 
-Git • GitHub • Postman • Jira • Sentry • System Design • WebSockets • Multi-Tenant Architecture
+Git • GitHub • Postman • Jira • Sentry 
 
 
 🤝 Let's Connect
